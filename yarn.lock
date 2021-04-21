@@ -859,10 +859,10 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-react-native-pager-view@5.0.12:
-  version "5.0.12"
-  resolved "https://npme.walmart.com/react-native-pager-view/-/react-native-pager-view-5.0.12.tgz#5106735d944e7f876b006377ab6a18859bf7730c"
-  integrity sha512-QmHUnQeP2qcxDofEOnKRmoUue0RaT55lhNJDfcQ1/SNuxif4Q2UyvDfqeItm1+toaE5tVnXqoreZh82FqUqnvw==
+react-native-pager-view@5.1.4:
+  version "5.1.4"
+  resolved "https://npme.walmart.com/react-native-pager-view/-/react-native-pager-view-5.1.4.tgz#b7c24d2c3b9e0e6562583f647f0fd4b9de3c3032"
+  integrity sha512-tIEpix0p1jq7n5f1PYwUxe1zKk6V3hVjoX7m2KzqCmalTI6RAWDmW/y9irTXDw1JjoXQjD8VrBKL3NtK82tesA==
 
 react-timer-mixin@^0.13.3:
   version "0.13.4"
